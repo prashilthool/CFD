@@ -11,4 +11,4 @@ following code contains
    b) BTCS: Line Gauss-Seidel iterative method (TriDiagonal Matrix Algorithm)
    c) Crank-Nicolson: Line Gauss-Seidel iterative method (TriDiagonal Matrix Algorithm)
 8. lid driven cavity
-
+Note : All the code are done in C Programming Language
